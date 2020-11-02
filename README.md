@@ -30,10 +30,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm install`
 
-
-
-### `npm install`
-
 The command to install the npm_modules folder is required to launch the application.
 
 ### `npm run build`
